@@ -5,9 +5,6 @@ description = "Prática em redes neurais artificiais"
 authors = ["davips <davip@utfpr.edu.br>"]
 license = "GPLv3"
 readme = 'README.md'
-packages = [
-    { include = "labrna", from = "src" }
-]
 
 [tool.poetry.dependencies]
 python = "^3.10,<3.13"
