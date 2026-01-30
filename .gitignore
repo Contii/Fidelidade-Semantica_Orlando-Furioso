@@ -1,6 +1,9 @@
-data/*
+data/private*
 outputs/data/*
+outputs/embeddings/*
+outputs/models/*
 venv
+.venv
 .ipynb_checkpoints
 .idea
 output
